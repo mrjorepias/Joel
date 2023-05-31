@@ -4,7 +4,7 @@
 
 - 😎 Junior Web Developer & Dev focused on working in projects 
 
-- 💬 Ask me about **JavaScript,Python, HTML, CSS, , Node.JS**
+- 💬 Ask me about **JavaScript,Python, HTML, CSS, React, Node.JS**
 
 - 🤔 I am a person who likes to learn a lot, so I will always be updating myself.
 
